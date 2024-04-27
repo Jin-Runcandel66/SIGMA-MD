@@ -1,14 +1,14 @@
 {
   "name": "sigma-md",
   "version": "1.5.3",
-  "description": "A CRAZY WHATSAPP BOT BY Maher Zubair",
+  "description": "A CRAZY WHATSAPP BOT BY Jin Runcandel",
   "main": "lib/client.js",
   "type": "commonjs",
   "scripts": {
       "start": "pm2 start lib/client.js --deep-monitoring --attach --name SIGMA-MD",
       "stop": "pm2 stop SIGMA-MD"
   },
-  "author": "Maher-Zubair",
+  "author": "Jin-Runcandel",
   "license": "Apache-2.0",
   "keywords": [
       "bot",
@@ -17,7 +17,7 @@
       "sigma",
       "sigma-md bot",
       "SIGMA-MD",
-      "Maher-Zubair",
+      "Jin-Runcandel",
       "Multi-Device Bot",
       "WaBot",
       "Baileys Bot"
